@@ -76,3 +76,11 @@ p a{
 .section2 div{
     width: 500px;
 }
+ol li div{
+    display: flex;
+}
+ol li div p{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
